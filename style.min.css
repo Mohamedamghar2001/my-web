@@ -161,7 +161,7 @@
  .about__skills-circle:before{content:"";position:absolute;width:36px;height:36px;border-radius:100%;background:#88bdbc;z-index:-1;top:-25%;left:0}
  .about__skills-circle:before{top:0}
  .about__skills-text{margin-top:6px;font-style:12px;line-height:18px}
-
+/* 
 
  .resume{padding-top:120px}
  .resume__overview{color:#fff}
@@ -184,7 +184,7 @@
  .resume_subtitle_tasks_front{display:block;margin-top:5px;font-weight:700}
  .resume_subtitle_technology{display:block;margin-top:5px;font-weight:700}
  .resume_subtitle_tasks{display:block;margin-top:5px;font-weight:700}
-
+ */
  .skills{position:relative;padding-top:20px}
  .skills_paddingTop{padding-top:120px}
  .skills__items{padding:20px 10px;display:grid;grid-template:repeat(1,minmax(167px,auto))/270px 270px 270px 270px;grid-auto-rows:minmax(270px,auto);gap:13px}
