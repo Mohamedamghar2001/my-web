@@ -98,7 +98,7 @@
  scaleTo{from{transform:scale(1)}50%{transform:scale(1.2)}to{transform:scale(1.6)}
 }
 
- .promo{min-height:100vh;position:relative;background:url(..main_bg.jpg) no-repeat 20%/cover;padding-top:205px}
+ .promo{min-height:100vh;position:relative;background:url(main_bg.jpg) no-repeat 20%/cover;padding-top:205px}
  .promo__title{color:#fff;
     width:535px;margin-top:10px}
  .promo__btns{display:flex;margin-top:25px;align-items:center;justify-content:space-between;width:300px}
