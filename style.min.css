@@ -279,7 +279,7 @@
  @media(max-width:992px){
  .container{max-width:720px}
  .title_fz36{font-size:30px;line-height:42px;margin-top:26px}
- .promo{background:url(../img/main_bg.jpg) no-repeat 50%/cover}
+ .promo{background:url(main_bg.jpg) no-repeat 50%/cover}
  .divider{margin:15px auto 0 auto}
  .about__wrapper{grid-template-columns:300px 380px}
  .about__skills{grid-template-columns:380px;grid-auto-rows:minmax(115px,auto)}
@@ -297,7 +297,7 @@
 @media(max-width:768px){
  .container{max-width:540px}
  .title_fz48{font-size:28px}
- .promo{background:url(../img/main_bg.jpg) no-repeat 50%/cover}
+ .promo{background:url(main_bg.jpg) no-repeat 50%/cover}
  .promo__title{line-height:39px;width:300px}
  .about{padding-top:40px}
  .about__wrapper{grid-template:400px auto auto/1fr}
@@ -324,7 +324,7 @@
  .title_fz36{font-size:24px;line-height:36px}
  .hamburger{right:20px}
  .menu__block{width:250px;padding-left:20px}
- .promo{background:url(../img/main_bg.jpg) no-repeat 50%/cover}
+ .promo{background:url(main_bg.jpg) no-repeat 50%/cover}
  .promo__btns{margin-top:30px}
  .about__wrapper{grid-template:340px auto auto/1fr}
  .about__skills{grid-template-columns:1fr}
